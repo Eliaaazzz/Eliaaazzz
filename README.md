@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/547a0dde-000e-42f5-979a-6a532822088e" width="380" alt="Space Boy Developer" />
+  ![404 Error](https://github.com/user-attachments/assets/97889400-ad8e-44b9-a333-b4f9d3f13426)
+ width="380" alt="Space Boy Developer" />
 
   <br/>
 
