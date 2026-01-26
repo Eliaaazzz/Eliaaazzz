@@ -1,4 +1,4 @@
-## Hi, I'm Elia Liu 👋
+## Hi, I'm Elia 👋
 
 CS & DS Student @ UniMelb.
 
