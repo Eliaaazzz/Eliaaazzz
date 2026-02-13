@@ -52,14 +52,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eliaaazzz&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Elia's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliaaazzz&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</div>
-
-<br/>
+## 📫 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/elia-liu/">
