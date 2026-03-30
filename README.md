@@ -45,7 +45,7 @@
     </td>
     <td align="center" width="200">
       <a href="https://github.com/run-llama/llama_index/pulls/Eliaaazzz">
-        <img src="https://raw.githubusercontent.com/run-llama/llama_index/main/docs/docs/_static/llama_index_logo.svg" width="120" alt="LlamaIndex" />
+        <img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" width="120" alt="LlamaIndex" />
       </a>
       <br/>
       <b>LlamaIndex</b>
@@ -99,7 +99,5 @@
   <a href="https://www.linkedin.com/in/elia-liu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:elialiulzy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+  <a href="/cdn-cgi/l/email-protection#76131a1f171a1f031a0c0f36111b171f1a5815191b">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&log
