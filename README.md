@@ -1,22 +1,61 @@
 <h1 align="center">Hi there, I'm Elia 👋</h1>
-
 <h3 align="center">
   Full Stack & AI Engineer | 🚀 Founder of Aura Fitness | 🌍 Open Source Enthusiast
 </h3>
-
 <p align="center">
   CS & DS @ Unimelb | Building scalable full-stack systems & engineering AI infrastructure.
 </p>
-
 <br/>
 
 ## 👨‍💻 About Me
-
 - 🔭 **Full Stack Engineering:** Architecting **Aura Fitness**, an AI-powered health platform using **Spring Boot** (Microservices) & **React Native**.
 - 🤖 **AI Engineering:** Focusing on Large Language Models (LLMs) and AI Infrastructure optimizations.
 - 🌱 **Open Source:** Actively contributing to **Apache Beam**, bridging the gap between distributed data processing and AI.
 - 🎓 **Unimelb Scholar:** Final year Computer Science & Data Science student.
 - ⚡ **Fun fact:** *"It is the time you have wasted for your rose that makes your rose so important."*
+
+---
+
+## 🌍 Open Source Contributions
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://github.com/apache/beam/pulls/Eliaaazzz">
+        <img src="https://beam.apache.org/images/beam_logo_navbar.png" width="120" alt="Apache Beam" />
+      </a>
+      <br/>
+      <b>Apache Beam</b>
+      <br/>
+      <img src="https://img.shields.io/badge/Merged-5-blueviolet?style=flat-square" />
+      <img src="https://img.shields.io/badge/Open-3-green?style=flat-square" />
+      <br/>
+      <sub>Python & Java SDK · ML Inference · Streaming IO · Runners</sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/apache/iotdb/pulls/Eliaaazzz">
+        <img src="https://iotdb.apache.org/logo.png" width="120" alt="Apache IoTDB" />
+      </a>
+      <br/>
+      <b>Apache IoTDB</b>
+      <br/>
+      <img src="https://img.shields.io/badge/Open-2-green?style=flat-square" />
+      <br/>
+      <sub>AINode · Relational Queries</sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/run-llama/llama_index/pulls/Eliaaazzz">
+        <img src="https://raw.githubusercontent.com/run-llama/llama_index/main/docs/docs/_static/llama_index_logo.svg" width="120" alt="LlamaIndex" />
+      </a>
+      <br/>
+      <b>LlamaIndex</b>
+      <br/>
+      <img src="https://img.shields.io/badge/Merged-1-blueviolet?style=flat-square" />
+      <br/>
+      <sub>LLM Framework</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
