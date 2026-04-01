@@ -101,3 +101,5 @@
   </a>
   <a href="/cdn-cgi/l/email-protection#76131a1f171a1f031a0c0f36111b171f1a5815191b">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&log
+  </a>
+</dev>
