@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Elia 👋</h1>
 <h3 align="center">
-  Full Stack & AI Engineer | 🚀 Founder of Aura Fitness | 🌍 Open Source Enthusiast
+  Full Stack & AI Engineer | 🚀 Founder of Metriful | 🌍 Open Source Enthusiast
 </h3>
 <p align="center">
   CS & DS @ Unimelb | Building scalable full-stack systems & engineering AI infrastructure.
