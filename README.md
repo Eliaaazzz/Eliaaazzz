@@ -8,8 +8,11 @@
 
 <p align="center">
   <a href="https://summerofcode.withgoogle.com/">
-    <img src="https://img.shields.io/badge/GSoC%202026-Apache%20Beam-fbbc04?style=for-the-badge&logo=google&logoColor=white" alt="GSoC 2026 @ Apache Beam"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/GSoC-logo-horizontal.svg/512px-GSoC-logo-horizontal.svg.png" width="380" alt="Google Summer of Code 2026"/>
   </a>
+</p>
+<p align="center">
+  <b>🏆 GSoC 2026 Contributor @ Apache Beam</b>
 </p>
 <br/>
 
@@ -39,7 +42,10 @@
       <br/>
       <sub>Python & Java SDK · ML Inference · Streaming IO · Runners</sub>
       <br/>
-      <sub>🏆 <b>GSoC 2026 Project</b></sub>
+      <a href="https://summerofcode.withgoogle.com/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/GSoC-icon.svg/40px-GSoC-icon.svg.png" width="14" alt="GSoC"/>
+      </a>
+      <sub><b> GSoC 2026 Project</b></sub>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/apache/iotdb/pulls/Eliaaazzz">
