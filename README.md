@@ -5,9 +5,16 @@
 <p align="center">
   CS & DS @ Unimelb | Building scalable full-stack systems & engineering AI infrastructure.
 </p>
+
+<p align="center">
+  <a href="https://summerofcode.withgoogle.com/">
+    <img src="https://img.shields.io/badge/GSoC%202026-Apache%20Beam-fbbc04?style=for-the-badge&logo=google&logoColor=white" alt="GSoC 2026 @ Apache Beam"/>
+  </a>
+</p>
 <br/>
 
 ## 👨‍💻 About Me
+- 🏆 **GSoC 2026 Contributor @ Apache Beam:** Selected for Google Summer of Code 2026 to lead a project on Apache Beam, advancing distributed data processing for AI workloads.
 - 🔭 **Full Stack Engineering:** Architecting **Aura Fitness**, an AI-powered health platform using **Spring Boot** (Microservices) & **React Native**.
 - 🤖 **AI Engineering:** Focusing on Large Language Models (LLMs) and AI Infrastructure optimizations.
 - 🌱 **Open Source:** Actively contributing to **Apache Beam**, bridging the gap between distributed data processing and AI.
@@ -31,6 +38,8 @@
       <img src="https://img.shields.io/badge/Open-2-green?style=flat-square" />
       <br/>
       <sub>Python & Java SDK · ML Inference · Streaming IO · Runners</sub>
+      <br/>
+      <sub>🏆 <b>GSoC 2026 Project</b></sub>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/apache/iotdb/pulls/Eliaaazzz">
