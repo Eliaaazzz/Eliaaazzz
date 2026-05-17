@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://summerofcode.withgoogle.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/GSoC-logo-horizontal.svg/512px-GSoC-logo-horizontal.svg.png" width="380" alt="Google Summer of Code 2026"/>
+    <img src="https://summerofcode.withgoogle.com/assets/media/logo.svg" width="380" alt="Google Summer of Code 2026"/>
   </a>
 </p>
 <p align="center">
@@ -110,8 +110,6 @@
 ---
 
 ## 📫 Connect with Me
-
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/elia-liu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
