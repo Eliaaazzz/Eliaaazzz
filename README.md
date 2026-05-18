@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://summerofcode.withgoogle.com/">
-    <img src="https://github.com/Eliaaazzz/Eliaaazzz/blob/main/gsoc-logo.svg?raw=true" width="380" alt="Google Summer of Code 2026"/>
+    <img src=""https://github.com/Eliaaazzz/Eliaaazzz/blob/main/gsoc-logo.svg?raw=true" width="380" alt="Google Summer of Code 2026"/>
   </a>
 </p>
 <p align="center">
