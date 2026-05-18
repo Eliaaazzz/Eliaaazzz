@@ -8,10 +8,12 @@
 
 <p align="center">
   <a href="https://summerofcode.withgoogle.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/GSoC-icon.svg" width="80" alt="Google Summer of Code 2026"/>
+    <img src="https://github.com/Eliaaazzz/Eliaaazzz/blob/main/gsoc-logo.svg?raw=true" width="380" alt="Google Summer of Code 2026"/>
   </a>
 </p>
-<h3 align="center">🏆 GSoC 2026 Contributor @ Apache Beam</h3>
+<p align="center">
+  <b>🏆 GSoC 2026 Contributor @ Apache Beam</b>
+</p>
 <br/>
 
 ## 👨‍💻 About Me
@@ -40,7 +42,9 @@
       <br/>
       <sub>Python & Java SDK · ML Inference · Streaming IO · Runners</sub>
       <br/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/GSoC-icon.svg" width="14" alt="GSoC"/>
+      <a href="https://summerofcode.withgoogle.com/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/GSoC-icon.svg/40px-GSoC-icon.svg.png" width="14" alt="GSoC"/>
+      </a>
       <sub><b> GSoC 2026 Project</b></sub>
     </td>
     <td align="center" width="200">
