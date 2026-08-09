@@ -37,7 +37,7 @@
       <br/>
       <b>Apache Beam</b>
       <br/>
-      <img src="https://img.shields.io/badge/Merged-15-blueviolet?style=flat-square" />
+      <img src="https://img.shields.io/badge/Merged-20-blueviolet?style=flat-square" />
       <img src="https://img.shields.io/badge/Open-4-green?style=flat-square" />
       <br/>
       <sub>Python & Java SDK · ML Inference · Streaming IO · Runners</sub>
